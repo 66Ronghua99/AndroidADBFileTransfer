@@ -3,7 +3,7 @@ This repo aims to provide convenient and fast exportation of media files from **
 
 # How to use
 1. Copy the `adb` executable file to one of the env PATHs. Use `which adb` to verify that the file has been successfully added to your environment.
-2. Execute `main.app`. For security concerns, use `pyinstaller` to compile your own app.
+2. You may directly execute the `main.app` in the root directory using Finder. Or, for security concerns, use `pyinstaller` to compile your own app.
 
 # Why am I doing this?
 I've tried OpenMTP and Android File Transfer to copy media files from my Android devices to my Mac, but neither of them has been satisfactory.
